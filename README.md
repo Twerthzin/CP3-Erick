@@ -50,11 +50,11 @@ Este projeto consiste em um **simulador de Caixa Eletrônico (ATM - Automated Te
 
 ## 🚀 Como Compilar e Executar
 
-### Pré-requisitos
+### Pré-requisitos (Eu só utilizei o Dev-C++)
 
 - Ter um compilador C instalado (GCC, MinGW ou Dev-C++)
 
-### Opção 1: Usando Dev-C++ (Recomendado para iniciantes)
+### Opção 1: Usando Dev-C++ (Eu usei e preferi!)
 
 1. Baixe e instale o [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
 2. Abra o programa e clique em `Arquivo > Novo > Código Fonte`
@@ -71,3 +71,7 @@ gcc main.c -o atm.exe
 
 # Executar o programa
 atm.exe
+'''
+### Observações finais:
+#### Prof, utilizei IA para corrigir os códigos, porém conseguir usar uma lógica "autoritária", fiz de cabeça... espero que tenha dado certo!
+#### Utilizei um compilador online para tentar ter um outra experiência rodando, como se fosse uma experiência de usuário MESMO...
