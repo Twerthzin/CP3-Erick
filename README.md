@@ -4,9 +4,11 @@
 |-------|-------------|
 | **Disciplina** | Data Structure and Algorithms |
 | **Curso** | Ciência da Computação |
-| **Desenvolvedor** | João Guilherme Figueiredo |
+| **Desenvolvedor 1** | João Guilherme Figueiredo |
 | **RM** | 572697 |
-| **Tipo de Entrega** | Individual |
+| **Desenvolvedor 2** | Matheus Borges Soares |
+| **RM** | 574085 |
+| **Tipo de Entrega** | dupla |
 
 ---
 
